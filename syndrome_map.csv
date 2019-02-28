@@ -1,0 +1,28 @@
+﻿data_source,syndrome
+CVS: Blood,sep
+GU: Urine,c.uti
+Respiratory: Sputum,cap
+Respiratory: Bronchials,cap
+INT: Abscess,skin
+Respiratory: Bronchoalveolar lavage,cap
+INT: Skin,skin
+INT: Skin Ulcer,skin
+HEENT: Ears,urti
+Respiratory: Other,cap
+HEENT:Throat,urti
+HEENT: Nose,urti
+Respiratory: Lungs,cap
+GU: Urinary Bladder,c.uti
+INT: Cellulitis/Erysipelas,skin
+Respiratory: Sinuses,c.uti
+INT: Burn,skin
+Bodily Fluids: CSF,meng
+Genital/Urinary (GU),puc
+HEENT: Other,urti
+Bodily Fluids: Synovial,sepa
+GU: Urethra,puc
+Respiratory: Sputum,hap
+Respiratory: Bronchials,hap
+Respiratory: Bronchoalveolar lavage,hap
+Respiratory: Other,hap
+Respiratory: Lungs,hap
